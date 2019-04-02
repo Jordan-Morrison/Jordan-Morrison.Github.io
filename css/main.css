@@ -72,6 +72,7 @@ img{
     animation: pulseTop 2s infinite;
 }
 
+/* ANIMATIONS */
 @keyframes pulse{
     0% {
         font-size: 45px;
@@ -164,19 +165,14 @@ img{
     color: #3797F0;
 }
 
-/* mobile */
 .portfolioItem img {
-    box-sizing: border-box;
     width: 90%;
-    max-height: 50%;
-    object-fit: cover;
-    object-position: top;
     margin: 10px auto;
     border-radius: 5px;
 }
 
 /* MEDIA QUERIES */
-@media (min-width: 320px){
+@media (max-width: 500px){
     body {
         font-size: 12px;
     }
@@ -184,9 +180,13 @@ img{
     p {
         font-size: 17px;
     }
+
+    #welcomeScreen {
+        padding-top: 25%;
+    }
 }
 
-@media (min-width: 576px) {
+@media (min-width: 501px) {
 	body {
 		font-size: 14px;
 	}
