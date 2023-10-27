@@ -1,0 +1,28 @@
+.container {
+    flex: 1;
+    padding-top: 5%;
+    text-align: center;
+    box-sizing: border-box;
+    color: var(--red-theme-foreground);
+    background-color: var(--red-theme-background);
+    min-height: 100vh;
+}
+
+.container h1{
+    font-weight: 400;
+    font-size: 3.75em;
+    margin: 0;
+    text-align: center;
+}
+
+.container h2 {
+    font-size: 1.5em;
+    font-weight: 300;
+}
+
+.container img{
+    margin: auto;
+    display: block;
+    width: 50%;
+    max-width: 300px;
+}

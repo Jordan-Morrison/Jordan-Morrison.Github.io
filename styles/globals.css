@@ -1,0 +1,11 @@
+:root {
+    --red-theme-foreground: white;
+    --red-theme-background: #E0142F;
+    --blue-background: #08A9D6;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    background-color: var(--red-theme-background);;
+}

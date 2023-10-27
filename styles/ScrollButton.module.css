@@ -1,0 +1,54 @@
+.scrollButton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    transition: all 2s;
+    bottom: 10px;
+}
+.scrollButton.top {
+    rotate: 180deg;
+    margin-bottom: 92vh;
+    animation: pulseTop 2s infinite;
+}
+
+.scrollButton svg{
+    height: 50px;
+    cursor: pointer;
+    animation: pulse 2s infinite;
+    transition: all 2s;
+    z-index: 100;
+    fill: var(--red-theme-foreground);
+}
+
+/* ANIMATIONS */
+@keyframes pulse{
+    0% {
+        height: 45px;
+        filter: drop-shadow(0px 0px 1px rgba(0, 0, 0, 0.5));
+    }
+    50% {
+        height: 60px;
+        filter: drop-shadow(0px 5px 20px rgba(0, 0, 0, 0.5));
+    }
+    100% {
+        height: 45px;
+        filter: drop-shadow(0px 0px 1px rgba(0, 0, 0, 0.5));
+    }
+}
+
+@keyframes pulseTop{
+    0% {
+        height: 45px;
+        filter: 0px 0px 1px rgba(0, 0, 0, 0.5);
+    }
+    50% {
+        height: 60px;
+        filter: 0px -5px 20px rgba(0, 0, 0, 0.5);
+    }
+    100% {
+        height: 45px;
+        filter: 0px 0px 1px rgba(0, 0, 0, 0.5);
+    }
+}

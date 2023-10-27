@@ -1,0 +1,16 @@
+.container {
+    color: var(--red-theme-foreground);
+    background-color: var(--red-theme-background);
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.container h3 {
+    font-size: 50px;
+    padding-top: 50px;
+    margin-bottom: 20px;
+}

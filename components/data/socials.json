@@ -1,0 +1,27 @@
+[
+    {
+        "icon": "instagram",
+        "link": "https://www.instagram.com/morrison_jordan/",
+        "altTxt": "View Jordan Morrison's Instagram"
+    },
+    {
+        "icon": "x",
+        "link": "https://twitter.com/J0rdan_Morrison",
+        "altTxt": "See Jordan Morrison on X"
+    },
+    {
+        "icon": "github",
+        "link": "https://github.com/Jordan-Morrison",
+        "altTxt": "Check out Jordan Morrison on GitHub"
+    },
+    {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/jordan--morrison/",
+        "altTxt": "Connect with Jordan Morrison on LinkedIn"
+    },
+    {
+        "icon": "resume",
+        "link": "./Jordan Morrison Resume.pdf",
+        "altTxt": "View or download a copy of Jordan Morrison's resume"
+    }
+]
