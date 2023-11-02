@@ -1,7 +1,6 @@
 const fs = require('fs');
 var fm = require('front-matter');
 import Home from "@/components/templates/Home";
-//import WinterludeApp from "@/components/data/projects/winterludeApp.md";
 
 export default function Index(props) {
 

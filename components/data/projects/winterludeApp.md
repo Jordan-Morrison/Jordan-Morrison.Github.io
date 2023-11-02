@@ -1,5 +1,6 @@
 ---
 title: Winterlude App
+techStack: ["Adobe XD"]
 images: [
     {
         url: /images/projects/winterludeApp/home.jpg,

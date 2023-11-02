@@ -1,6 +1,5 @@
 .container {
     color: var(--red-theme-foreground);
-    background-color: var(--red-theme-background);
 
     display: flex;
     flex-direction: column;

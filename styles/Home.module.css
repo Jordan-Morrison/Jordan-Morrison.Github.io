@@ -1,0 +1,18 @@
+.container {
+    background-color: blueviolet;
+    transition: background-color 1s;
+    animation: changeColours 10s infinite;
+}
+
+/* ANIMATIONS */
+@keyframes changeColours{
+    0% {
+        background-color: #E0142F;
+    }
+    50% {
+        background-color: orange;
+    }
+    100% {
+        background-color: #E0142F;
+    }
+}

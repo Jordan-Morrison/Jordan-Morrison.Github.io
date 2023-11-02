@@ -5,7 +5,14 @@
 }
 
 .socials svg {
-    height: 50px;
+    height: 60px;
     width: auto;
     fill: var(--red-theme-foreground);
+}
+
+/* MEDIA QUERIES */
+@media (max-width: 500px){
+    .socials svg {
+        height: 37px;
+    }
 }

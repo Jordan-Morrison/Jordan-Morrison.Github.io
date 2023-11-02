@@ -1,0 +1,22 @@
+.list {
+    display: flex;
+    gap: 5px;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0 20px;
+}
+
+.list li {
+    padding: 6px 10px;
+    border-radius: 20px;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.list li img {
+    height: 15px;
+    border-radius: 2px;
+}

@@ -6,6 +6,7 @@ import 'swiper/css';
 import 'swiper/css/pagination';
 import 'swiper/css/navigation';
 import Slide from '../atoms/slide';
+import StackList from '../atoms/StackList';
 
 export default function PortfolioItem(props) {
 
@@ -35,6 +36,7 @@ export default function PortfolioItem(props) {
             </Swiper>
             <h4>{props.project.data.title}</h4>
             <Markdown>{props.project.description}</Markdown>
+            <StackList techStack={props.project.data.techStack}/>
         </div>
     )
 }
