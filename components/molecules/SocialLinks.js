@@ -5,8 +5,6 @@ import styles from '@/styles/SocialLinks.module.css';
 
 export default function SocialLinks(props) {
 
-    console.log(data);
-
   return (
     <div className={styles.socials}>
         {data.map(social =>

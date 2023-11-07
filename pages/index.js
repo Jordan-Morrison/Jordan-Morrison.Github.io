@@ -16,12 +16,14 @@ export async function getStaticProps() {
     let projects = [];
 
     fs.readdirSync(path).forEach(file => {
-        let fileContents = fs.readFileSync(`${path}/${file}`);
-        fileContents = fm(fileContents.toString());
-        projects.push({
-            data: fileContents.attributes,
-            description: fileContents.body
-        });
+        if (file.slice(-3) === ".md"){
+            let fileContents = fs.readFileSync(`${path}/${file}`);
+            fileContents = fm(fileContents.toString());
+            projects.push({
+                data: fileContents.attributes,
+                description: fileContents.body
+            });
+        }
     });
 
     projects.sort(function(x, y) {
