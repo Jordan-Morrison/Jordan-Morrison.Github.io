@@ -16,10 +16,11 @@
 }
 
 .socials a {
-    fill: var(--red-theme-foreground);
+    fill: var(--primary-foreground);
 }
 
 .footer p {
+    color: var(--primary-foreground);
     margin: 0;
     font-size: 12px;
     opacity: 33%;

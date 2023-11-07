@@ -3,7 +3,7 @@
     padding-top: 5%;
     text-align: center;
     box-sizing: border-box;
-    color: var(--red-theme-foreground);
+    color: var(--primary-foreground);
     min-height: 100vh;
 }
 

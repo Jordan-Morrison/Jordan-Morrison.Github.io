@@ -1,6 +1,7 @@
 ---
 title: Photography Portfolio
 techStack: [Next.js, React, JavaScript, HTML, CSS]
+index: 30
 images: [
     {
         url: /images/projects/photographyPortfolio/home_light.png,

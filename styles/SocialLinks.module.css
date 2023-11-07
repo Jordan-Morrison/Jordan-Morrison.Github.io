@@ -7,7 +7,7 @@
 .socials svg {
     height: 60px;
     width: auto;
-    fill: var(--red-theme-foreground);
+    fill: var(--primary-foreground);
 }
 
 /* MEDIA QUERIES */

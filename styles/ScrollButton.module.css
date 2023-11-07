@@ -19,7 +19,7 @@
     animation: pulse 2s infinite;
     transition: all 2s;
     z-index: 100;
-    fill: var(--red-theme-foreground);
+    fill: var(--primary-foreground);
 }
 
 /* ANIMATIONS */

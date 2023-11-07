@@ -1,6 +1,7 @@
 ---
 title: Advent Calendar
 techStack: ["Node.js", "MongoDB", "JavaScript", "HTML", "CSS"]
+index: 40
 images: [
     {
         url: /images/projects/adventCalendar/loginScreen.jpg,

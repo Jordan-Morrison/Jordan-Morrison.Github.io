@@ -1,6 +1,7 @@
 ---
 title: Pokédex Go
 techStack: ["Node.js", "JavaScript", "HTML", "CSS"]
+index: 50
 images: [
     {
         url: /images/projects/pokedexGo/pokemonScreen.png,

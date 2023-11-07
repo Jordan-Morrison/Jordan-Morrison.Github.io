@@ -24,6 +24,16 @@ export async function getStaticProps() {
         });
     });
 
+    projects.sort(function(x, y) {
+        if (x.data.index < y.data.index) {
+          return -1;
+        }
+        if (x.data.index > y.data.index) {
+          return 1;
+        }
+        return 0;
+      });
+
     return {props : {projects}}
 
 }

@@ -8,6 +8,10 @@
         "icon": "/images/techIcons/react.png"
     },
     {
+        "name": "React Native",
+        "icon": "/images/techIcons/react.png"
+    },
+    {
         "name": "Node.js",
         "icon": "/images/techIcons/nodejs.png"
     },
