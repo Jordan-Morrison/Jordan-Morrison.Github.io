@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&family=Varela&display=swap');
+
+:root {
+    --primary-foreground: white;
+    --primary-background: #E0142F;
+    /* --secondary-background: #08A9D6; */
+    --secondary-background: rgb(35, 35, 42);
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}

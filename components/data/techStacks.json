@@ -1,0 +1,46 @@
+[
+    {
+        "name": "JavaScript",
+        "icon": "/images/techIcons/javaScript.png"
+    },
+    {
+        "name": "React",
+        "icon": "/images/techIcons/react.png"
+    },
+    {
+        "name": "React Native",
+        "icon": "/images/techIcons/react.png"
+    },
+    {
+        "name": "Node.js",
+        "icon": "/images/techIcons/nodejs.png"
+    },
+    {
+        "name": "Next.js",
+        "icon": "/images/techIcons/nextjs.png"
+    },
+    {
+        "name": "MongoDB",
+        "icon": "/images/techIcons/mongoDB.png"
+    },
+    {
+        "name": "Adobe XD",
+        "icon": "/images/techIcons/adobeXD.png"
+    },
+    {
+        "name": "HTML",
+        "icon": "/images/techIcons/html.png"
+    },
+    {
+        "name": "CSS",
+        "icon": "/images/techIcons/css.png"
+    },
+    {
+        "name": "Swift",
+        "icon": "/images/techIcons/swift.png"
+    },
+    {
+        "name": "Figma",
+        "icon": "/images/techIcons/figma.png"
+    }
+]

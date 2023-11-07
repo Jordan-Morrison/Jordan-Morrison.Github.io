@@ -1,0 +1,64 @@
+.container {
+    position: fixed;
+    top: 60px;
+    left: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.navTest {
+    margin: 0;
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+    height: 20px;
+    min-width: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all 750ms;    
+    cursor: pointer;
+    filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.3));
+}
+
+.navTest svg {
+    width: auto;
+}
+
+.navTest span {
+    max-width: 0;
+    margin-left: 0;
+    transition: all 500ms, margin 750ms;
+    overflow: hidden;
+    text-wrap: nowrap;
+}
+
+/* .navTest:hover .title{
+    max-width: 500px;
+    margin-left: 15px;
+} */
+
+/* .container:hover .navTest:not(:hover) {
+    max-width: 0;
+}
+
+.container:hover .navTest .title {
+    max-width: 0;
+    margin-left: 0;
+    overflow: hidden;
+    text-wrap: nowrap;
+} */
+
+.container .navTest:hover .title {
+    max-width: 500px;
+    margin-left: 15px; 
+}
+
+.navTest:not(:hover) .title {
+    max-width: 0;
+}
+
+.navTest:not(:hover) {
+    max-width: 20px;
+}

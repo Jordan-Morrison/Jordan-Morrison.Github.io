@@ -1,0 +1,18 @@
+.socials {
+    display: flex;
+    justify-content: center;
+    grid-gap: 20px;
+}
+
+.socials svg {
+    height: 60px;
+    width: auto;
+    fill: var(--primary-foreground);
+}
+
+/* MEDIA QUERIES */
+@media (max-width: 500px){
+    .socials svg {
+        height: 37px;
+    }
+}

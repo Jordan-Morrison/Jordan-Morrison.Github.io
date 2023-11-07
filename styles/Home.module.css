@@ -1,0 +1,8 @@
+.container {
+    background-color: var(--primary-background);
+    transition: background-color 1s;
+    animation: changeColours 10s infinite;
+}
+.container.notWelcomeScreen {
+    background-color: var(--secondary-background);
+}

@@ -1,0 +1,27 @@
+.footer {
+    margin-top: 50px;
+    padding-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.socials {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.socials a {
+    fill: var(--primary-foreground);
+}
+
+.footer p {
+    color: var(--primary-foreground);
+    margin: 0;
+    font-size: 12px;
+    opacity: 33%;
+}
