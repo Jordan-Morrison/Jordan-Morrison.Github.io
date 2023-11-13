@@ -1,5 +1,5 @@
 ---
-title: Busrides Learning Platform
+title: Busrides
 techStack: ["Next.js", "React", "Node.js", "JavaScript", "HTML", "CSS", "Adobe XD", "React Native"]
 index: 0
 images: [

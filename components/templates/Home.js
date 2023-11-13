@@ -18,6 +18,7 @@ export default function Home(props) {
             <Head>
                 <title>Jordan Morrison</title>
                 <meta name="description" content="Jordan Morrison's developer portfolio, specializing in web development, mobile development, graphic, UX and UI design." />
+                <meta name="theme-color" content={isWelcomeScreen ? "#E0142F" : "#23232a"}/>
             </Head>
             <WelcomeScreen welcomeScreenRef={welcomeScreenRef}/>
             <PortfolioGrid projects={props.projects} projectScreenRef={projectScreenRef}/>
