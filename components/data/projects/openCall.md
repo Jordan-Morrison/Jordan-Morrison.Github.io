@@ -4,23 +4,23 @@ techStack: ["React", "JavaScript", "HTML", "CSS"]
 index: 10
 images: [
     {
-        url: /images/projects/openCall/home.png,
+        url: /images/projects/openCall/home.jpg,
         altTxt: a screenshot of the Open Call home page
     },
     {
-        url: /images/projects/openCall/contribute.png,
+        url: /images/projects/openCall/contribute.jpg,
         altTxt: a screenshot showing how to contribute to the Open Call catalogue with a short description of the project
     },
     {
-        url: /images/projects/openCall/about.png,
+        url: /images/projects/openCall/about.jpg,
         altTxt: a screenshot about page in Open Call
     },
     {
-        url: /images/projects/openCall/faq.png,
+        url: /images/projects/openCall/faq.jpg,
         altTxt: a screenshot of the FAQ page in Open Call
     },
     {
-        url: /images/projects/openCall/successStories.png,
+        url: /images/projects/openCall/successStories.jpg,
         altTxt: a screenshot showing the success stories catalogue in Open Call
     }
 ]

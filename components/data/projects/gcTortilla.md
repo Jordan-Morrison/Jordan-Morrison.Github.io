@@ -4,19 +4,19 @@ techStack: [React]
 index: 31
 images: [
     {
-        url: /images/projects/gcTortilla/defaultSplashScreen.png,
+        url: /images/projects/gcTortilla/defaultSplashScreen.jpg,
         altTxt: a screenshot of the default splash screen component in the GC-Tortilla library
     },
     {
-        url: /images/projects/gcTortilla/logoSplashScreen.png,
+        url: /images/projects/gcTortilla/logoSplashScreen.jpg,
         altTxt: a screenshot showing a customized version of the splash screen component in GC-Tortilla
     },
     {
-        url: /images/projects/gcTortilla/headerAndFooter.png,
+        url: /images/projects/gcTortilla/headerAndFooter.jpg,
         altTxt: a screenshot showcasing the header and footer components in GC-Tortilla
     },
     {
-        url: /images/projects/gcTortilla/npm.png,
+        url: /images/projects/gcTortilla/npm.jpg,
         altTxt: a screenshot of GC-Tortilla on NPM
     }
 ]

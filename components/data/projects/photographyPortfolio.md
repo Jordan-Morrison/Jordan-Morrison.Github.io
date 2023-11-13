@@ -4,35 +4,35 @@ techStack: [Next.js, React, JavaScript, HTML, CSS]
 index: 30
 images: [
     {
-        url: /images/projects/photographyPortfolio/home_light.png,
+        url: /images/projects/photographyPortfolio/home_light.jpg,
         altTxt: a screenshot of the homepage for Jordan Morrison's photography portfolio
     },
     {
-        url: /images/projects/photographyPortfolio/photoGrid_light.png,
+        url: /images/projects/photographyPortfolio/photoGrid_light.jpg,
         altTxt: a screenshot of the photo grid showcasing Jordan Morrison's photography work
     },
     {
-        url: /images/projects/photographyPortfolio/photoView_light.png,
+        url: /images/projects/photographyPortfolio/photoView_light.jpg,
         altTxt: a screenshot of the fullscreen photo view on Jordan Morrison's photography portfolio
     },
     {
-        url: /images/projects/photographyPortfolio/contact_light.png,
+        url: /images/projects/photographyPortfolio/contact_light.jpg,
         altTxt: a screenshot of the contact page on Jordan Morrison's photography portfolio
     },
     {
-        url: /images/projects/photographyPortfolio/home_dark.png,
+        url: /images/projects/photographyPortfolio/home_dark.jpg,
         altTxt: a screenshot of the homepage in dark mode for Jordan Morrison's photography portfolio
     },
     {
-        url: /images/projects/photographyPortfolio/photoGrid_dark.png,
+        url: /images/projects/photographyPortfolio/photoGrid_dark.jpg,
         altTxt: a screenshot of the photo grid in dark mode showcasing Jordan Morrison's photography work
     },
     {
-        url: /images/projects/photographyPortfolio/photoView_dark.png,
+        url: /images/projects/photographyPortfolio/photoView_dark.jpg,
         altTxt: a screenshot of the fullscreen photo view in dark mode on Jordan Morrison's photography portfolio
     },
     {
-        url: /images/projects/photographyPortfolio/contact_dark.png,
+        url: /images/projects/photographyPortfolio/contact_dark.jpg,
         altTxt: a screenshot of the contact page in dark mode on Jordan Morrison's photography portfolio
     }
 ]

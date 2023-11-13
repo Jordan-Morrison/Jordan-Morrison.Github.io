@@ -4,23 +4,23 @@ techStack: ["Node.js", "JavaScript", "HTML", "CSS"]
 index: 50
 images: [
     {
-        url: /images/projects/pokedexGo/pokemonScreen.png,
+        url: /images/projects/pokedexGo/pokemonScreen.jpg,
         altTxt: a screenshot of the Pokémon list view in Pokédex Go
     },
     {
-        url: /images/projects/pokedexGo/detailsScreen.png,
+        url: /images/projects/pokedexGo/detailsScreen.jpg,
         altTxt: a screenshot showcasing the stats of a Pikachu in Pokédex Go
     },
     {
-        url: /images/projects/pokedexGo/newsPopup.png,
+        url: /images/projects/pokedexGo/newsPopup.jpg,
         altTxt: a screenshot of the news screen in Pokédex Go
     },
     {
-        url: /images/projects/pokedexGo/compareSelectScreen.png,
+        url: /images/projects/pokedexGo/compareSelectScreen.jpg,
         altTxt: a screenshot showcasing the layout for the compare Pokémon selection screen in in Pokédex Go
     },
     {
-        url: /images/projects/pokedexGo/compareScreen.png,
+        url: /images/projects/pokedexGo/compareScreen.jpg,
         altTxt: a screenshot comparing Pokémon in Pokédex Go
     }
 ]
