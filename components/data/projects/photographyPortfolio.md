@@ -1,7 +1,7 @@
 ---
 title: Photography Portfolio
-techStack: [Next.js, React, JavaScript, HTML, CSS]
-index: 30
+techStack: [Next.js, React, JavaScript, HTML, CSS, "Pixelmator Pro", "Adobe Photoshop"]
+index: 10
 images: [
     {
         url: /images/projects/photographyPortfolio/home_light.jpg,

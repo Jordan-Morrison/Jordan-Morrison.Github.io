@@ -1,7 +1,7 @@
 ---
 title: GC-Tortilla
-techStack: [React]
-index: 31
+techStack: [React, "JavaScript", "Node.js", "HTML", "CSS"]
+index: 50
 images: [
     {
         url: /images/projects/gcTortilla/defaultSplashScreen.jpg,

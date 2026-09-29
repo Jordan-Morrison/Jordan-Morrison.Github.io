@@ -1,6 +1,6 @@
 ---
 title: Many more!
-techStack: ["Node.js", "JavaScript", "HTML", "CSS", "MongoDB", "Adobe XD", "Figma", "Swift", "React", "React Native", "Next.js"]
+techStack: ["Node.js", "JavaScript", "HTML", "CSS", "MongoDB", "Figma", "Swift", "React", "React Native", "Next.js", "Pixelmator Pro", "Adobe Photoshop","Amazon Web Services", "Microsoft Azure", "Google Firebase", "Google Analytics", "Canva", "Ghost CMS", "Monkey C", "Adobe XD"]
 index: 999999
 ---
  

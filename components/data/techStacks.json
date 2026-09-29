@@ -42,5 +42,41 @@
     {
         "name": "Figma",
         "icon": "/images/techIcons/figma.png"
+    },
+    {
+        "name": "Pixelmator Pro",
+        "icon": "/images/techIcons/pixelmatorPro.png"
+    },
+    {
+        "name": "Amazon Web Services",
+        "icon": "/images/techIcons/aws.webp"
+    },
+    {
+        "name": "Microsoft Azure",
+        "icon": "/images/techIcons/microsoftAzure.webp"
+    },
+    {
+        "name": "Google Firebase",
+        "icon": "/images/techIcons/firebase.webp"
+    },
+    {
+        "name": "Google Analytics",
+        "icon": "/images/techIcons/googleAnalytics.webp"
+    },
+    {
+        "name": "Canva",
+        "icon": "/images/techIcons/canva.webp"
+    },
+    {
+        "name": "Ghost CMS",
+        "icon": "/images/techIcons/ghostCMS.png"
+    },
+    {
+        "name": "Adobe Photoshop",
+        "icon": "/images/techIcons/photoshop.webp"
+    },
+    {
+        "name": "Monkey C",
+        "icon": "/images/techIcons/monkeyC.png"
     }
 ]

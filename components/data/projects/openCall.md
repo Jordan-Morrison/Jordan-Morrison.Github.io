@@ -1,7 +1,7 @@
 ---
 title: Open Call
 techStack: ["React", "JavaScript", "HTML", "CSS"]
-index: 10
+index: 60
 images: [
     {
         url: /images/projects/openCall/home.jpg,

@@ -1,7 +1,7 @@
 ---
 title: MASV Mobile
 techStack: ["Swift", "Figma"]
-index: 70
+index: 120
 images: [
     {
         url: /images/projects/masvMobile/portalSelection.jpg,

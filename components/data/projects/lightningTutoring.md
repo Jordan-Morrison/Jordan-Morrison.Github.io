@@ -1,7 +1,7 @@
 ---
 title: Lightning Tutoring
 techStack: ["Adobe XD"]
-index: 60
+index: 140
 images: [
     {
         url: /images/projects/lightningTutoring/browseTutorsDark.jpg,

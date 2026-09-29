@@ -1,7 +1,7 @@
 ---
 title: Advent Calendar
-techStack: ["Node.js", "MongoDB", "JavaScript", "HTML", "CSS"]
-index: 40
+techStack: ["Node.js", "MongoDB", "JavaScript", "HTML", "CSS", "Google Firebase", "Adobe Photoshop", "Canva"]
+index: 130
 images: [
     {
         url: /images/projects/adventCalendar/loginScreen.jpg,
@@ -18,4 +18,4 @@ images: [
 ]
 ---
  
-This advent calendar was a gift for my family and everyday of December, up until Christmas it would give them a hint as to what their presents were going to be. The calendar was full of animations with snow constantly falling and gift wrap when opening a new day on the calendar. This project also featured a backend with email & password authentication using Firebase. This protected any leaks as only data up and until that day would be sent to the app from the server.
+This advent calendar was a fun little gift for my family and everyday of December, up until Christmas it would give them a hint as to what their presents were going to be. The calendar was full of animations with snow constantly falling and gift wrap when opening a new day on the calendar. This project also featured a backend with email & password authentication using Firebase. This protected any leaks as only data up and until that day would be sent to the app from the server.
